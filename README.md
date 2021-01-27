@@ -2,13 +2,6 @@
 - 다양한 기술에 관심이 많은 개발자 꿈나무입니다.
 - 덕업일치를 외치며 일하고 싶습니다.
 
-<div align=center>
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-[![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](https://blog.naver.com/sjy263942)
-
-</div>
-
 ### 🏅 Github stats
 
 ![SJY's github stats](https://github-readme-stats.vercel.app/api?username=ebbunnim&show_icons=true&count_private=true)
@@ -27,3 +20,9 @@
 <image src="https://user-images.githubusercontent.com/46434838/105970771-13b31e00-60cd-11eb-9f37-75117026e902.png" height="40">
 <image src="https://user-images.githubusercontent.com/46434838/105970981-507f1500-60cd-11eb-9c6c-1a297d2ca85b.jpg" height="40">
  </div>
+
+
+<div align=center>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+[![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](https://blog.naver.com/sjy263942)
+</div>
