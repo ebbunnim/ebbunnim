@@ -23,3 +23,36 @@
 
 </br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ebbunnim)](https://github.com/mazassumnida/mazassumnida)
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ebbunnim)](https://solved.ac/kdog1503)
+
+
+<!---
+df
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ebbunnim)](https://solved.ac/profile/ebbunnim)
+
+
+<br><br>
+
+<p align="center"><img align="center" height="15" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ebbunnim&show_icons=true" alt="sjy" /><p/>
+<p align="center"><img align="center" height="15" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ebbunnim&show_icons=true" alt="sjy" /><p/>
+
+<p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=ebbunnim" />&nbsp;
+&nbsp;<p/>
+
+<p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=ebbunnim" />&nbsp;
+&nbsp;<p/>
+
+<p align="center"><img align="center" height="15" src="http://@@@" alt="sjy" /><p/>
+
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503)](https://solved.ac/profile/ebbunnim)
+--->
