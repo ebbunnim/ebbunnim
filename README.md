@@ -28,7 +28,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ebbunnim)](https://solved.ac/kdog1503)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ebbunnim)](https://solved.ac/ebbunnim)
 
 
 <!---
