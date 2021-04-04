@@ -54,5 +54,5 @@ df
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503)](https://solved.ac/profile/ebbunnim)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ebbunnim)](https://solved.ac/profile/ebbunnim)
 --->
