@@ -4,6 +4,8 @@
 
 ### 🏅 Github stats
 
+![Jaylene's github stats](https://github-readme-stats.vercel.app/api?username=ebbunnim&show_icons=true&count_private=true)
+
 ### 📚 Interest
 
 <div align=center>
