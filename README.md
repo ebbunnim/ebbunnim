@@ -4,7 +4,7 @@
 
 ### 🏅 Github stats
 
-![SJY's github stats](https://github-readme-stats.vercel.app/api?username=ebbunnim&show_icons=true&count_private=true)
+![Jaylene's github stats](https://github-readme-stats.vercel.app/api?username=ebbunnim&show_icons=true&count_private=true)
 
 ### 📚 Interest
 
